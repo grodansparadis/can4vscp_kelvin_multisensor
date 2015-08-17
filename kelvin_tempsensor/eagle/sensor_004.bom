@@ -1,0 +1,8 @@
+Partlist exported from /home/akhe/hardware/kelvin_tempsensor/eagle/sensor_004.sch at  5/29/2006 17:31:14 
+
+Part Value   Device   Package  Description   
+C1           CAPNP-5  C-5                    
+J1           215877-4 215877-4 AMP connector 
+Q1   Smartec BC548    TO92-EBC NPN Transistor
+Q2   DS18S20 BC548    TO92-EBC NPN Transistor
+SHT1         SHT11    SHT11                  
